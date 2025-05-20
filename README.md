@@ -10,6 +10,10 @@ By the end, you’ll have a clear understanding of how to get the **best value f
 
 ## **What is Contabo Free Trial and Coupon Codes?**
 
+<a href="https://afftrend.com/contabo">
+  <img src="https://drive.google.com/uc?export=view&id=1nwzQLJUsiyazWu1jXat4j8mS7ng913ro"  alt="Contabo Vps Homepage">
+</a>
+
 Contabo does not currently offer a traditional free trial. However, they do provide a **14-day money-back guarantee**, allowing you to try their services with minimal risk. If you're not satisfied within this period, you can request a full refund with ease.
 
 To help users save money, Contabo also offers various **coupon codes and promotional deals**:
