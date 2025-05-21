@@ -95,12 +95,12 @@ Contabo operates multiple data centers across Europe, the U.S., and Asia, allowi
 
 | **Model** | **CPU** | **RAM** | **Storage** | **Data Transfer** | **Price (incl. 19% VAT)** |
 | --- | --- | --- | --- | --- | --- |
-| Cloud VPS 4C | 4 vCPU Cores | 4 GB RAM | 100 GB NVMe or 200 GB SSD | 32 TB Traffic*Unlimited Incoming | €5.36 / month |
-| Cloud VPS 6C | 6 vCPU Cores | 12 GB RAM | 200 GB SSD or 100 GB NVMe | 32 TB Traffic*Unlimited Incoming | €8.33 / month |
-| Cloud VPS 8C | 8 vCPU Cores | 20 GB RAM | 200 GB NVMe or 400 GB SSD | 32 TB Traffic*Unlimited Incoming | €16.66 / month |
-| Cloud VPS 10C | 10 vCPU Cores | 32 GB RAM | 250 GB NVMe or 500 GB SSD | 32 TB Traffic*Unlimited Incoming | €30.94 / month |
-| Cloud VPS 14C | 14 vCPU Cores | 48 GB RAM | 300 GB NVMe or 600 GB SSD | 32 TB Traffic*Unlimited Incoming | €39.87 / month |
-| Cloud VPS 20C | 20 vCPU Cores | 96 GB RAM | 400 GB NVMe or 800 GB SSD | 32 TB Traffic*Unlimited Incoming | €73.19 / month |
+| Cloud VPS 4C | 4 vCPU Cores | 4 GB RAM | 100 GB NVMe or 200 GB SSD | 32 TB Traffic*Unlimited Incoming | €5.70 / month |
+| Cloud VPS 6C | 6 vCPU Cores | 12 GB RAM | 200 GB SSD or 100 GB NVMe | 32 TB Traffic*Unlimited Incoming | €9.72 / month |
+| Cloud VPS 8C | 8 vCPU Cores | 20 GB RAM | 200 GB NVMe or 400 GB SSD | 32 TB Traffic*Unlimited Incoming | €17.92 / month |
+| Cloud VPS 10C | 10 vCPU Cores | 32 GB RAM | 250 GB NVMe or 500 GB SSD | 32 TB Traffic*Unlimited Incoming | €34.58 / month |
+| Cloud VPS 14C | 14 vCPU Cores | 48 GB RAM | 300 GB NVMe or 600 GB SSD | 32 TB Traffic*Unlimited Incoming | €46.13 / month |
+| Cloud VPS 20C | 20 vCPU Cores | 96 GB RAM | 400 GB NVMe or 800 GB SSD | 32 TB Traffic*Unlimited Incoming | €85.76 / month |
 
 The extracted pricing and plans from the Contabo VPS offerings show a range of scalable options, from the affordable Cloud VPS 4C at €5.36/month with 4 vCPU cores and 4 GB RAM, up to the high-performance Cloud VPS 20C at €73.19/month, offering 20 vCPU cores and 96 GB RAM. 
 
