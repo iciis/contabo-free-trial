@@ -56,12 +56,15 @@ As of 2025, Contabo is offering several active coupon codes and promotional deal
 5. **Apply** the code to see the discounted price.
 6. **Complete** the purchase with the adjusted total.
 
-
 ### Additional Offers
 
 * **Free Setup**: Contabo often waives setup fees during promotional periods or for longer contract commitments.
 * **Affiliate Program**: Earn up to €150 per sale by joining Contabo's affiliate program.
 * **Money-Back Guarantee**: 14-day refund policy on VPS plans, allowing users to test services risk-free.
+
+<a href="https://afftrend.com/contabo"> 
+<img src="https://drive.google.com/uc?export=view&id=1blfCEfuCZz6FkpegsgFrF423xrPoJ7ur" alt="Claim Your Discount"> 
+</a>
 
 ## **What Does the Contabo Free Trial Offer?**-
 
@@ -120,6 +123,10 @@ Every Contabo VPS includes built-in DDoS protection, ensuring your server stays 
 **6. Global Data Centers**
 
 Contabo operates multiple data centers across Europe, the U.S., and Asia, allowing you to deploy VPS servers close to your target audience. This ensures low latency, faster load times, and better regional compliance, enhancing user experience and performance for global applications and websites.
+
+<a href="https://afftrend.com/contabo"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
 
 ## Pricing of Contabo
 
