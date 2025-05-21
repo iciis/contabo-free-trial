@@ -239,35 +239,35 @@ This makes them particularly attractive to developers, small to medium-sized bus
 
 ## FAQs
 
-**Does Contabo offer a free trial?**
+**1. Does Contabo offer a free trial?**
 
 Contabo doesn’t offer a traditional free trial. However, they provide a **14-day money-back guarantee**, so you can try their services and request a refund if you're not satisfied within that time.
 
-**How can I get Contabo’s money-back guarantee?**
+**2. How can I get Contabo’s money-back guarantee?**
 
 To use the guarantee, purchase any hosting plan. If you cancel within 14 days, you’ll get a full refund. It’s a safe way to test their services without long-term commitment.
 
-**Are there any active Contabo coupon codes?**
+**3. Are there any active Contabo coupon codes?**
 
 Yes, Contabo occasionally shares **discount coupon codes** during special promotions. These codes offer percentage-based discounts on hosting plans. Always check current offers before placing your order.
 
-**Can I apply a coupon code during checkout?**
+**4. Can I apply a coupon code during checkout?**
 
 Yes, if you have a valid Contabo coupon code, you can enter it during the checkout process. The discount will automatically apply before payment is completed.
 
-**Does Contabo offer student discounts or referral bonuses?**
+**5. Does Contabo offer student discounts or referral bonuses?**
 
 Currently, Contabo doesn’t offer specific student discounts or referral bonuses. However, their prices are already low, and seasonal offers provide good savings for all customers.
 
-**What types of discounts does Contabo offer?**
+**6. What types of discounts does Contabo offer?**
 
 Contabo provides **seasonal sales, outlet server deals**, and coupon-based discounts. These promotions can give you up to 70% off on selected plans or services, depending on availability.
 
-**How often are new Contabo coupon codes released?**
+**7. How often are new Contabo coupon codes released?**
 
 Coupon codes and deals usually appear during holidays, seasonal campaigns, or product launches. It’s best to check regularly for updates to make sure you don’t miss any offer.
 
-**What happens if I forget to use a coupon?**
+**8. What happens if I forget to use a coupon?**
 
 If you complete your purchase without using a coupon code, Contabo doesn’t apply discounts afterward. Always double-check and apply the code before you make your final payment.
 
